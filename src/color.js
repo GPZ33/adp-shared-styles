@@ -1,4 +1,4 @@
-export const colors = {
+const colors = {
     tintColorLight: '#0a7ea4',
     tintColorDark: '#fff',
     light: {
